@@ -8,12 +8,12 @@
  ## 🙋‍♂️ About Me
 
 - 🎓 I'm **CS** Junior at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
-- 👯 I'm Core Team Member at 🇵🇰's First official Community of Flutter namely <a href="https://www.instagram.com/flutterisb/" >Flutter Islamabad </a>
-- 👯 I'm Former Core Team Member at Google Developers Student Club CUI Islamabad <a href="https://www.instagram.com/gdsccui/" >GDSC CUI </a>
-- 🌱 I'm currently learning <b>Flutter,Firebase, MERN stack for Development and Data Analysis for my Data major </b>
-- 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work relating flutter apps , data analysis and technical content writing.**
+- 👯 I'm Publications & Outreach Lead at 🇵🇰's First official Community of Flutter namely <a href="https://www.instagram.com/flutterisb/" >Flutter Islamabad </a>
+- 👯 I'm Campus Lead at Google Developers Student Club CUI Islamabad <a href="https://www.instagram.com/gdsccui/" >GDSC CUI </a>
+- 🌱 I'm currently learning <b>Flutter, Firebase, MERN stack for Development and Data Analysis for my Data major </b>
+- 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work relating to flutter apps, data analysis, and technical content writing.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
-- ⚡ Goal for 2023 ->> To Become a *Fullstack Dart and JavaScript Developer* and *Entry Level Data Scientist.*
+- ⚡ Goal for 2023 ->> To Become a *Fullstack Dart and JavaScript Developer* and *Entry Level Data analyst.*
 - 😎 **Fun fact:** I love **Journalism** and like to play **Cricket**.
 
 <!--Social Media Links!-->
