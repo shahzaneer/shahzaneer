@@ -2,7 +2,8 @@
   <h1 align="center">I'm <b>Shahzaneer Ahmed</b></h1>
  <h3 align="center">Converting Ideas into Code to make an impact!</h3>
  <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=435&lines=CS+Senior;Fullstack+Software+Developer;)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=435&lines=CS+Senior;Fullstack+Software+Developer)](https://git.io/typing-svg)
 
  ## 🙋‍♂️ About Me
 
