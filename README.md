@@ -8,13 +8,13 @@
  ## 🙋‍♂️ About Me
 
 - 🎓 I'm **CS** Senior at <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
-- 👯 I'm Publications & Outreach Lead at 🇵🇰's First official Community of Flutter namely <a href="https://www.instagram.com/flutterisb/" >Flutter Islamabad </a>
+- 👯 I'm Former Publications & Outreach Lead at 🇵🇰's First official Community of Flutter namely <a href="https://www.instagram.com/flutterisb/" >Flutter Islamabad </a>
 - 👯 I'm Former Campus Lead at Google Developers Student Club CUI Islamabad <a href="https://www.instagram.com/gdsccui/" >GDSC CUI </a>
 - 👯 I'm Former Organizer at TEDxCUI Islamabad <a href="https://www.instagram.com/tedxcui/" >TEDxCUI </a>
 - 🌱 I'm currently learning <b> Mobile App Development, Backend Engineering & DevOps </b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work of Software Development.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
-- ⚡ Goal for 2024 ->> To Become a better and confident *Fullstack Software Development Engineer*
+- ⚡ Goal for 2025 ->> To Become a better and confident *Backend and DevOps Engineer*
 - 😎 **Fun fact:** I love **Journalism** and like to play **Cricket**.
 
 <!--Social Media Links!-->
