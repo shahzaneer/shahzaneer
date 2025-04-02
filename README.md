@@ -6,11 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=435&lines=CS+Grad;Backend+Engineer;DevOps+Engineer;Cloud+Engineer)](https://git.io/typing-svg)
 
  ## 🙋‍♂️ About Me
-
+- 👯 I'm working as an Associate Software Engineer (Cloud & DevOps) at <a href="https://www.linkedin.com/company/i2c-inc/posts/?feedView=all" >i2c,inc.  </a>
 - 🎓 I Hold a **Bachelor's Degree in CS**  from <a href="https://comsats.edu.pk/" >COMSATS Institute of Information Technology Islamabad.</a>
 - 👯 I'm Former Publications & Outreach Lead at 🇵🇰's First official Community of Flutter namely <a href="https://www.instagram.com/flutterisb/" >Flutter Islamabad </a>
 - 👯 I'm Former Campus Lead at Google Developers Student Club CUI Islamabad <a href="https://www.instagram.com/gdsccui/" >GDSC CUI </a>
-- 👯 I'm Former Organizer at TEDxCUI Islamabad <a href="https://www.instagram.com/tedxcui/" >TEDxCUI </a>
+- 👯 I'm  2X Organizer at TEDxCUI Islamabad <a href="https://www.instagram.com/tedxcui/" >TEDxCUI </a>
 - 🌱 I'm currently learning <b> Backend Engineering, Cloud and DevOps Technologies </b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work of Software Development.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
