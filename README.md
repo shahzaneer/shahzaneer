@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning <b> Backend Engineering, Cloud and DevOps Technologies </b>
 - 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work of Software Development.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
-- ⚡ Goal for 2025 ->> To Become a better and confident *Backend and Cloud DevOps Engineer*
+- ⚡ Goal for 2026 ->> To Become a better and confident *Cloud DevOps Engineer and Solution Architect*
 - 😎 **Fun fact:** I love **Journalism** and like to play **Cricket**.
 
 <!--Social Media Links!-->
