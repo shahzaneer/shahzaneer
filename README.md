@@ -15,7 +15,7 @@
 - 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work of Software Development.**
 - 📫 Reach out to me @**shahzaneer.dev@gmail.com**.
 - ⚡ Goal for 2026 ->> To Become a better and confident *Cloud DevOps Engineer and Solution Architect*
-- 😎 **Fun fact:** I love **Journalism** and like to play **Cricket**.
+- 😎 **Fun fact:** I love **Journalism** and love to play **Cricket**.
 
 <!--Social Media Links!-->
 
