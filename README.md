@@ -2,7 +2,8 @@
 
 # 👋 Hey, I'm Shahzaneer Ahmed
 
-### Converting Ideas into Code & Code into Services to make an impact!
+### Architecting Resilience. Engineering Automation. Delivering at Scale.
+### The Code Ships Itself — I Just Design & Build the Track
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=500&center=true&lines=Cloud+DevOps+Engineer;Solution+Architect;Automation+Engineer;Infrastructure+%26+Platform+Engineer;DevSecOps+Practitioner)](https://git.io/typing-svg)
 
@@ -22,7 +23,7 @@ experience: 2+ Years
 specializations:
   - OnPrem & Cloud Infrastructure 
   - Kubernetes, Docker & OpenShift
-  - CI/CD Pipelines & GitOps 
+  - CI/CD Pipelines, GitOps , MLOps 
   - DevSecOps & SRE
   - Observability & Platform Engineering
   - Cloud Solution Architect
