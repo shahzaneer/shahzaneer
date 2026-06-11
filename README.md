@@ -16,9 +16,9 @@
 ```yaml
 name: Shahzaneer Ahmed
 role: Cloud DevOps Engineer | Solution Architect
-current_company: i2c Inc. (FinTech | California, US)
+current_company: Stealth Startup (Singapore)
 education: B.S. Computer Science @ COMSATS University Islamabad
-experience: 2+ Years
+experience: 2.5+ Years
 
 specializations:
   - OnPrem & Cloud Infrastructure 
