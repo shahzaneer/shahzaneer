@@ -5,7 +5,7 @@
 ### Architecting Resilience. Engineering Automation. Delivering at Scale.
 ### The Code Ships Itself — I Just Design & Build the Track
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=500&center=true&lines=Cloud+DevOps+Engineer;Solution+Architect;Automation+Engineer;Infrastructure+%26+Platform+Engineer;DevSecOps+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=500&center=true&lines=Cloud+DevOps+Engineer;Solution+Architect;Automation+Engineer;Infrastructure+%26+Platform+Engineer;Cloud+Security+Engineer)](https://git.io/typing-svg)
 
 </div>
 
