@@ -17,7 +17,7 @@
 ```yaml
 name: Shahzaneer Ahmed
 role: Cloud DevOps Engineer | Solution Architect
-current_company: Alethia AI
+current_company: Alethia AI (Singapore)
 education: B.S. Computer Science @ COMSATS University Islamabad
 experience: 2.5+ Years
 
