@@ -3,6 +3,7 @@
 # 👋 Hey, I'm Shahzaneer Ahmed
 
 ### Architecting Resilience. Engineering Automation. Delivering at Scale.
+### Striving to make an impact!
 ### The Code Ships Itself — I Just Design & Build the Track
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=500&center=true&lines=Cloud+DevOps+Engineer;Solution+Architect;Automation+Engineer;Infrastructure+%26+Platform+Engineer;Cloud+Security+Engineer)](https://git.io/typing-svg)
@@ -16,7 +17,7 @@
 ```yaml
 name: Shahzaneer Ahmed
 role: Cloud DevOps Engineer | Solution Architect
-current_company: Stealth Startup (Singapore)
+current_company: Alethia AI
 education: B.S. Computer Science @ COMSATS University Islamabad
 experience: 2.5+ Years
 
@@ -29,7 +30,7 @@ specializations:
   - Cloud Solution Architect
 
 goal_2026: >
-  Become a platform & stack agnostic
+  Become a better platform & stack agnostic
   Cloud Solution Architect
 
 interests:
@@ -38,6 +39,7 @@ interests:
   - Community Building 🤝
 
 contact: shahzaneer.dev@gmail.com
+WhatsApp: +923164606490
 ```
 
 ---
