@@ -19,7 +19,7 @@ name: Shahzaneer Ahmed
 role: Cloud DevOps Engineer | Solution Architect
 current_company: Stealth AI (Singapore)
 education: B.S. Computer Science @ COMSATS University Islamabad
-experience: 2.5+ Years
+experience: 3 Years
 
 specializations:
   - OnPrem & Cloud Infrastructure 
