@@ -98,8 +98,8 @@
       <text x="-26" y="-2" class="label" text-anchor="end">AUTOMATION</text><text x="-26" y="11" class="micro" text-anchor="end">CI/CD · GITOPS</text>
     </g>
     <g transform="translate(170 180)">
-      <circle r="17" class="node-ring"/><rect x="-7" y="-5" width="14" height="10" rx="1" fill="none" stroke="#0ea5e9" stroke-width="1.7"/><path d="M-4 8H4" stroke="#0ea5e9" stroke-width="1.7" stroke-linecap="round"/>
-      <text x="-27" y="-2" class="label" text-anchor="end">ON-PREMISES</text><text x="-27" y="11" class="micro" text-anchor="end">SECURE RUNTIME</text>
+      <circle r="17" class="node-ring"/><path d="M0-8L7-5V0C7 5 4 8 0 10C-4 8-7 5-7 0V-5Z" fill="none" stroke="#0ea5e9" stroke-width="1.7" stroke-linejoin="round"/><path d="M-3 0L-1 3L4-3" fill="none" stroke="#78f713" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="-27" y="-2" class="label" text-anchor="end">SECURITY</text><text x="-27" y="11" class="micro" text-anchor="end">DEVSECOPS · VAULT</text>
     </g>
     <g transform="translate(275 60)">
       <circle r="17" class="node-ring"/><path d="M-6 4V-4L0-8L6-4V4L0 8Z" fill="none" stroke="#a78bfa" stroke-width="1.7"/>
