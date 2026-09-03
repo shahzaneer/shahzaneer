@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 360" role="img" aria-labelledby="title description">
+  <title id="title">Animated cloud infrastructure control plane</title>
+  <desc id="description">A cyber-style network topology connecting a central control plane to cloud, Kubernetes, automation, observability, GPU, and on-premises infrastructure.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.52" stop-color="#0b1720"/>
+      <stop offset="1" stop-color="#071013"/>
+    </linearGradient>
+    <radialGradient id="coreGlow">
+      <stop offset="0" stop-color="#4ff4ff" stop-opacity=".18"/>
+      <stop offset=".55" stop-color="#4ff4ff" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#4ff4ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="flag" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ff315f"/>
+      <stop offset="1" stop-color="#c90c39"/>
+    </linearGradient>
+    <filter id="cyanGlow" x="-250%" y="-250%" width="600%" height="600%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="redGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#4ff4ff" stroke-opacity=".035"/>
+    </pattern>
+
+    <path id="route1" d="M380 180L590 180"/>
+    <path id="route2" d="M380 180L485 300"/>
+    <path id="route3" d="M380 180L275 300"/>
+    <path id="route4" d="M380 180L170 180"/>
+    <path id="route5" d="M380 180L275 60"/>
+    <path id="route6" d="M380 180L485 60"/>
+  </defs>
+
+  <style>
+    .label { fill: #b8cbd0; font: 600 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.4px; }
+    .micro { fill: #69868e; font: 8px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1px; }
+    .route { fill: none; stroke: #4ff4ff; stroke-width: 1; stroke-opacity: .18; }
+    .node-ring { fill: #0d1b22; stroke: #4ff4ff; stroke-opacity: .55; }
+    .packet { fill: #eafdff; filter: url(#cyanGlow); }
+    .pulse { fill: none; stroke: #4ff4ff; transform-box: fill-box; transform-origin: center; animation: pulse 3s ease-out infinite; }
+    .scan { transform-box: fill-box; transform-origin: center; animation: scan 8s linear infinite; }
+    .flag-cloth { transform-box: fill-box; transform-origin: 0 100%; animation: wave 2.4s ease-in-out infinite; }
+    .blink { animation: blink 1.8s ease-in-out infinite; }
+    @keyframes pulse { 0% { transform: scale(.45); opacity: .8; } 75%, 100% { transform: scale(2.8); opacity: 0; } }
+    @keyframes scan { to { transform: rotate(360deg); } }
+    @keyframes wave { 0%, 100% { transform: skewY(0deg) scaleX(1); } 50% { transform: skewY(-4deg) scaleX(.93); } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .28; } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .scan, .flag-cloth, .blink { animation: none; } }
+  </style>
+
+  <rect x="1" y="1" width="758" height="358" rx="16" fill="url(#panel)" stroke="#4ff4ff" stroke-opacity=".16"/>
+  <rect x="1" y="1" width="758" height="358" rx="16" fill="url(#grid)"/>
+
+  <g aria-hidden="true">
+    <circle cx="18" cy="19" r="3" fill="#ec134a"/>
+    <circle cx="30" cy="19" r="3" fill="#f5a623"/>
+    <circle cx="42" cy="19" r="3" fill="#78f713"/>
+    <text x="58" y="22" class="micro">INFRASTRUCTURE / LIVE TOPOLOGY</text>
+    <circle cx="686" cy="19" r="3" fill="#78f713" class="blink"/>
+    <text x="697" y="22" class="micro" fill="#78f713">ONLINE</text>
+  </g>
+
+  <circle cx="380" cy="180" r="145" fill="url(#coreGlow)"/>
+  <circle cx="380" cy="180" r="58" fill="none" stroke="#4ff4ff" stroke-opacity=".11"/>
+  <circle cx="380" cy="180" r="112" fill="none" stroke="#4ff4ff" stroke-opacity=".08"/>
+  <circle cx="380" cy="180" r="146" fill="none" stroke="#4ff4ff" stroke-opacity=".06" stroke-dasharray="3 8"/>
+  <path d="M380 34V326M234 180H526" stroke="#4ff4ff" stroke-opacity=".05"/>
+  <path d="M590 180L485 300L275 300L170 180L275 60L485 60Z" fill="none" stroke="#4ff4ff" stroke-opacity=".14"/>
+  <path d="M485 180L432 271H328L275 180L328 89H432Z" fill="none" stroke="#4ff4ff" stroke-opacity=".12"/>
+
+  <g class="route">
+    <use xlink:href="#route1"/><use xlink:href="#route2"/><use xlink:href="#route3"/>
+    <use xlink:href="#route4"/><use xlink:href="#route5"/><use xlink:href="#route6"/>
+  </g>
+
+  <g class="scan" opacity=".45">
+    <path d="M380 180L518 132A146 146 0 0 1 523 249Z" fill="#4ff4ff" fill-opacity=".055"/>
+    <path d="M380 180L518 132" stroke="#4ff4ff" stroke-opacity=".35"/>
+  </g>
+
+  <g aria-label="Connected infrastructure nodes">
+    <g transform="translate(590 180)">
+      <circle r="17" class="node-ring"/><circle r="3.5" fill="#ff9900" filter="url(#cyanGlow)"/>
+      <text x="27" y="-2" class="label">MULTI-CLOUD</text><text x="27" y="11" class="micro">AWS · AZURE · GCP</text>
+    </g>
+    <g transform="translate(485 300)">
+      <circle r="17" class="node-ring"/><path d="M-6 4L0-7L6 4Z" fill="none" stroke="#78f713" stroke-width="2"/>
+      <text x="26" y="-2" class="label">KUBERNETES</text><text x="26" y="11" class="micro">ORCHESTRATION</text>
+    </g>
+    <g transform="translate(275 300)">
+      <circle r="17" class="node-ring"/><path d="M-7 0H7M3-4L7 0L3 4" fill="none" stroke="#78f713" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="-26" y="-2" class="label" text-anchor="end">AUTOMATION</text><text x="-26" y="11" class="micro" text-anchor="end">CI/CD · GITOPS</text>
+    </g>
+    <g transform="translate(170 180)">
+      <circle r="17" class="node-ring"/><rect x="-7" y="-5" width="14" height="10" rx="1" fill="none" stroke="#0ea5e9" stroke-width="1.7"/><path d="M-4 8H4" stroke="#0ea5e9" stroke-width="1.7" stroke-linecap="round"/>
+      <text x="-27" y="-2" class="label" text-anchor="end">ON-PREMISES</text><text x="-27" y="11" class="micro" text-anchor="end">SECURE RUNTIME</text>
+    </g>
+    <g transform="translate(275 60)">
+      <circle r="17" class="node-ring"/><path d="M-6 4V-4L0-8L6-4V4L0 8Z" fill="none" stroke="#a78bfa" stroke-width="1.7"/>
+      <text x="-26" y="-2" class="label" text-anchor="end">AI / GPU</text><text x="-26" y="11" class="micro" text-anchor="end">COMPUTE FABRIC</text>
+    </g>
+    <g transform="translate(485 60)">
+      <circle r="17" class="node-ring"/><path d="M-8 4L-3-2L1 2L7-6" fill="none" stroke="#f46800" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="26" y="-2" class="label">OBSERVABILITY</text><text x="26" y="11" class="micro">METRICS · LOGS</text>
+    </g>
+  </g>
+
+  <g aria-hidden="true">
+    <circle r="3.5" class="packet"><animateMotion dur="2.8s" repeatCount="indefinite"><mpath xlink:href="#route1"/></animateMotion></circle>
+    <circle r="3.5" class="packet"><animateMotion dur="3.2s" begin="-.8s" repeatCount="indefinite"><mpath xlink:href="#route2"/></animateMotion></circle>
+    <circle r="3.5" class="packet"><animateMotion dur="2.6s" begin="-1.5s" repeatCount="indefinite"><mpath xlink:href="#route3"/></animateMotion></circle>
+    <circle r="3.5" class="packet"><animateMotion dur="3s" begin="-.4s" repeatCount="indefinite"><mpath xlink:href="#route4"/></animateMotion></circle>
+    <circle r="3.5" class="packet"><animateMotion dur="2.5s" begin="-1.2s" repeatCount="indefinite"><mpath xlink:href="#route5"/></animateMotion></circle>
+    <circle r="3.5" class="packet"><animateMotion dur="3.1s" begin="-2s" repeatCount="indefinite"><mpath xlink:href="#route6"/></animateMotion></circle>
+  </g>
+
+  <g transform="translate(380 180)" aria-label="Central control plane">
+    <circle r="31" fill="#081317" stroke="#4ff4ff" stroke-opacity=".5" stroke-width="1.5"/>
+    <circle r="19" class="pulse" stroke-width="1.5"/>
+    <circle r="19" class="pulse" stroke-width="1.5" style="animation-delay:1.5s"/>
+    <ellipse cy="13" rx="24" ry="6" fill="#4ff4ff" fill-opacity=".09" stroke="#4ff4ff" stroke-opacity=".28"/>
+    <line x1="0" y1="10" x2="0" y2="-42" stroke="#b8cbd0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="10" r="4.5" fill="#4ff4ff" filter="url(#cyanGlow)"/>
+    <path class="flag-cloth" d="M0-42L39-32L0-16Z" fill="url(#flag)" filter="url(#redGlow)"/>
+  </g>
+
+  <text x="380" y="230" text-anchor="middle" class="label" fill="#eafdff">CONTROL PLANE</text>
+  <text x="380" y="243" text-anchor="middle" class="micro">DESIGN · AUTOMATE · OPERATE</text>
+  <text x="18" y="342" class="micro">SHAHZANEER // CLOUD SYSTEMS</text>
+  <text x="742" y="342" class="micro" text-anchor="end">RESILIENT BY DESIGN</text>
+</svg>

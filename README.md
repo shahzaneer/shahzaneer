@@ -71,6 +71,12 @@ Currently working as a **Cloud & AI Infrastructure Engineer** at a Singapore-bas
 
 My work sits at the intersection of cloud platforms, DevOps automation, security, AI compute, and blockchain infrastructure.
 
+<div align="center">
+
+<img width="760" src="./assets/cloud-control-plane.svg" alt="Animated cloud infrastructure control-plane topology connecting multi-cloud, Kubernetes, automation, on-premises, AI and observability systems" />
+
+</div>
+
 ---
 
 ## `$ ls -la ./tech-stack/`
