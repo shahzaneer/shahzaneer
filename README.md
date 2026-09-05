@@ -33,7 +33,7 @@
 ```yaml
 name: Shahzaneer Ahmed
 role: Cloud DevOps Engineer | Solution Architect
-current_company: Stealth AI (Singapore)
+current_company: Alethia AI
 education: B.S. Computer Science @ COMSATS University Islamabad
 experience: 3+ years
 
@@ -67,7 +67,8 @@ I like infrastructure that is boring in the best way: repeatable, observable, re
 
 ## `$ cat current_work.log`
 
-Currently working as a **Cloud & AI Infrastructure Engineer** at a Singapore-based AI + Blockchain startup, designing and operating scalable AI/ML and GPU-based workloads across **AWS**, **GCP**, **RunPod**, and **Vast.ai**.
+Currently working as a **Cloud & AI Infrastructure Engineer** at Alethia AI, designing and operating scalable AI/ML and GPU-based workloads across **AWS**, **GCP**, **RunPod**, and **Vast.ai**.
+ALETHIA AI is a Singapore-based AI R&D Lab building Generative AI, blockchain, digital-twin, and real-time agentic AI technologies for Education, financials and creative world. 
 
 My work sits at the intersection of cloud platforms, DevOps automation, security, AI compute, and blockchain infrastructure.
 
