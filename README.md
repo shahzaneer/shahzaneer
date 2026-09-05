@@ -68,7 +68,7 @@ I like infrastructure that is boring in the best way: repeatable, observable, re
 ## `$ cat current_work.log`
 
 Currently working as a **Cloud & AI Infrastructure Engineer** at Alethia AI, designing and operating scalable AI/ML and GPU-based workloads across **AWS**, **GCP**, **RunPod**, and **Vast.ai**.
-ALETHIA AI is a Singapore-based AI R&D Lab building Generative AI, blockchain, digital-twin, and real-time agentic AI technologies for Education, financials and creative world. 
+Alethia AI is a Singapore-based AI R&D Lab building Generative AI, blockchain, digital-twin, and real-time agentic AI technologies for Education, financials and creative world.
 
 My work sits at the intersection of cloud platforms, DevOps automation, security, AI compute, and blockchain infrastructure.
 
@@ -147,6 +147,21 @@ My work sits at the intersection of cloud platforms, DevOps automation, security
 ---
 
 ## `$ cat experience.log`
+
+<details>
+<summary><b>🧠 Alethia AI · Cloud & AI Infrastructure Engineer · Singapore (Remote)</b></summary>
+
+<br>
+
+> AI R&D lab building generative AI, blockchain, digital-twin, and real-time agentic technologies
+
+- Architect secure, scalable multi-cloud infrastructure across **AWS, GCP, RunPod & Vast.ai** for AI/ML, GPU-intensive, and blockchain workloads
+- Operate **Kubernetes & Amazon EKS** platforms and automate infrastructure and delivery using **Terraform, GitHub Actions, Jenkins, Python & Bash**
+- Conduct **AWS security audits** across IAM, networking, encryption, storage, secrets, logging, and configuration risks
+- Embed **shift-left security** with SAST, SCA, dependency and container scanning, and security quality gates
+- Improve **CI/CD build and deployment times**, strengthen observability with **Prometheus, Grafana & Loki**, and drive **FinOps** through rightsizing, workload scheduling, and cloud/GPU cost optimization
+
+</details>
 
 <details>
 <summary><b>🏢 i2c Inc. · Cloud DevOps / Platform Engineering · California, US</b></summary>
